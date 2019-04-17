@@ -70,10 +70,10 @@
     "promise": "7.1.1",
     "extend": "^3.0.0",
     "inherits": "^2.0.3",
-    "kurento-client-core": "^6.0.0",
+    "kurento-client-core": "ESTOS/kurento-client-core-js#master",
     "kurento-client-elements": "^6.0.0",
     "kurento-client-filters": "^6.0.0",
-    "kurento-jsonrpc": "^6.0.0",
+    "kurento-jsonrpc": "ESTOS/kurento-jsonrpc-js#master",
     "promisecallback": "0.0.4",
     "reconnect-ws": "KurentoForks/reconnect-ws#master",
     "minimist": "^1.2.0"
