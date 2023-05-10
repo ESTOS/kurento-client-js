@@ -72,7 +72,7 @@
     "kurento-client-core": "ESTOS/kurento-client-core-js#estos6.3",
     "kurento-client-elements": "ESTOS/kurento-client-elements-js#estos6.3",
     "kurento-client-filters": "ESTOS/kurento-client-filters-js#estos6.3",
-    "kurento-jsonrpc": "ESTOS/kurento-jsonrpc-js#estos6.3",
+    "kurento-jsonrpc": "github:ESTOS/kurento-jsonrpc-js#feature/UCCON1517",
     "minimist": "^1.2.0",
     "promise": "7.1.1",
     "promisecallback": "0.0.4",
